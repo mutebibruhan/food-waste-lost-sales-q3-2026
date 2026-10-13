@@ -1,0 +1,44 @@
+item_id,item_name,category,cost_price,shelf_life_days,supply_type,launch_date
+I001,Cheese Croissant,Pastry,5.03,2,daily_fresh,\N
+I002,Turkey & Cheese Croissant,Pastry,6.47,2,daily_fresh,\N
+I003,Plain Croissant,Pastry,3.18,2,daily_fresh,\N
+I004,Almond Croissant,Pastry,6.7,2,daily_fresh,\N
+I005,Pain au Chocolate,Pastry,4.24,2,daily_fresh,\N
+I006,Cinnamon Roll,Pastry,2.65,2,daily_fresh,\N
+I007,Turkey & Cheese Pretzel Supreme,Pastry,7.4,2,daily_fresh,\N
+I008,Spinach & Feta Pretzel Supreme,Pastry,5.0,2,daily_fresh,\N
+I009,"Egg, Turkey & Cheese Croissant Roll",Pastry,8.0,2,daily_fresh,\N
+I010,Cheese and Tomato Dainsh,Pastry,3.8,2,daily_fresh,\N
+I011,Egg White Red Pepper Egg Bites,Savory,7.79,3,weekly_frozen,\N
+I012,New Protein Rich Egg Bites,Savory,9.72,3,weekly_frozen,\N
+I013,Dark Chocolate Donut,Donuts,3.0,1,daily_fresh,\N
+I014,Vanilla Glazed Cinnamon Donut Scroll,Donuts,5.5,2,daily_fresh,\N
+I015,Mini Choco Chunk Cookie,Cookies,7.79,2,daily_fresh,\N
+I016,Mini Brownies,Cookies,5.65,2,daily_fresh,\N
+I017,Triple Chocolate Cookie,Cookies,6.5,2,weekly_frozen,\N
+I018,Chocolate Crumble Muffin,Muffins,5.25,2,daily_fresh,\N
+I019,Blueberry Crumble Muffin,Muffins,5.25,2,daily_fresh,\N
+I020,Arabian Halloumi,Sandwich,9.2,2,daily_fresh,\N
+I021,Chicken Avocado Protein Wrap,Sandwich,11.2,2,daily_fresh,\N
+I022,Turkey Cheese Sandwich,Sandwich,9.4,2,daily_fresh,\N
+I023,Cheese and Roasted Tomato,Sandwich,8.6,2,daily_fresh,\N
+I024,Halloumi Flat Bread,Sandwich,10.0,2,daily_fresh,\N
+I025,Tuna Flat Bread,Sandwich,8.5,2,daily_fresh,\N
+I026,Chicken Caesar Wrap,Sandwich,11.0,2,daily_fresh,\N
+I027,Egg Sandwich,Sandwich,6.7,2,daily_fresh,\N
+I028,Dynamite Chicken Sandwich,Sandwich,8.6,2,daily_fresh,\N
+I029,Chicken Siracha Flatbread,Sandwich,10.0,2,daily_fresh,2026-09-01
+I030,Chicken Pesto Salad,Salad,13.5,2,daily_fresh,\N
+I031,Grand Chicken Caesar Salad,Salad,12.1,2,daily_fresh,\N
+I032,Fruit Pot New,Salad,9.62,2,daily_fresh,\N
+I033,Bottle Fresh Orange Juice,Juice,3.4,2,daily_fresh,\N
+I034,Marble Loaf Cake,Cakes,3.77,2,weekly_frozen,\N
+I035,Carrot & Walnut Cake,Cakes,6.21,2,weekly_frozen,\N
+I036,Chocolate Cake,Cakes,10.0,2,weekly_frozen,\N
+I037,Vanilla Cake Pop,Cakes,2.65,2,weekly_frozen,\N
+I038,Oreo and Chocolate Cake,Cakes,12.85,2,weekly_frozen,\N
+I039,Strawberry Cheese Cake,Cakes,11.0,2,weekly_frozen,\N
+I040,Honey Cake,Cakes,8.13,2,weekly_frozen,\N
+I041,Milk Chocolate Bearista Bear with Crunchy Wafer,Cakes,5.1,3,weekly_frozen,\N
+I042,White Chocolate Bearista Bear with Creamy Passionfruit,Cakes,5.1,3,weekly_frozen,\N
+I043,Chocolate Cake Pop,Cakes,2.97,2,weekly_frozen,\N
